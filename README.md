@@ -1,4 +1,7 @@
 # Optimal-Route-Tracking
+
+![image](https://github.com/Suraj-Chavan1/Optimal-Route-Tracking/assets/113795475/52888318-9f5d-4b8d-bd6b-a2084879758a)
+
 A* Algorithm Implementation for Finding Shortest Path
 This Python implementation demonstrates the A* algorithm for finding the shortest path in a graph. The algorithm takes into account both the cost to reach a node (known as the 'g' score) and an estimate of the cost to reach the goal from that node (known as the 'h' score).
 
